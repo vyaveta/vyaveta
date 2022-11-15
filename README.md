@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Adwaith</h1>
 <h3 align="center">A self-taught MERN stack developer from India region of the Earth</h3>
 
-<img align='right' width='350' src='https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif' alt='gif' />
+<img align='center' width='350' src='https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif' alt='gif' />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vyaveta" alt="vyaveta" /></a> </p>
 
