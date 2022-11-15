@@ -15,17 +15,17 @@
 
 - 👯 I’m looking to collaborate on **Projects for startups**
 
-- 🤝 I’m looking for help with **Personal websites using react and College projects for students**
+- 🤝 I’m ready to help with **Personal websites using react and College projects for students**
 
-- 📝 I regularly write articles on [null](null)
+- 📝 Progress is not a linear graph for sure as it includes ups and downs
 
 - 💬 I talk about **Coding , Money , Startups**
 
-- 📫 How to reach me **Just mail me: whatthe12hell@gmail.com**
+- 📫 How to reach me? - **Just mail me: whatthe12hell@gmail.com**
 
 - 📄 Know about my experiences [Intern @ Brototype](Intern @ Brototype)
 
-- ⚡ Fun fact **undefined**
+- ⚡ Fun fact is **undefined**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
