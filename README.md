@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Adwaith</h1>
 <h3 align="center">A self-taught MERN stack developer from India region of the Earth</h3>
